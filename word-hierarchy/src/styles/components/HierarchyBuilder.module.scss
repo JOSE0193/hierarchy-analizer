@@ -1,0 +1,17 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+}
+
+.buttonClass{
+  max-width: 300px;
+  background-color: bisque;
+  border:1;
+  padding: 0.4rem;
+  border-radius: 0.5rem;
+  transition: filter 0.2s;
+  margin-bottom: 10px;
+}
